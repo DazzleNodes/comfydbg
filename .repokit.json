@@ -1,0 +1,15 @@
+{
+  "repokit_managed": true,
+  "generated_by": "repokit",
+  "version": "0.4.3",
+  "created_at": "2026-03-11T11:06:56.000000Z",
+  "project_name": "comfydbg",
+  "language": "python",
+  "branch_strategy": "minimal",
+  "private_branch": "private",
+  "description": "ComfyUI startup manager, version detective, and troubleshooting toolkit.",
+  "author": {
+    "name": "djdarcy",
+    "email": "6962246+djdarcy@users.noreply.github.com"
+  }
+}
